@@ -1,0 +1,19 @@
+.logo {
+    height: 60px;
+}
+
+.imagen-circular {
+    width: 460px;
+    height: 460px;
+    clip-path: circle(38%);
+    object-fit: cover;
+    /* Asegura que la imagen se ajuste bien dentro del contenedor */
+}
+
+.profile .dots-3 svg {
+    fill: #000000;
+}
+
+.profile .dots-1 svg {
+    fill: #000000;
+}
